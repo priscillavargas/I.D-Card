@@ -1,0 +1,42 @@
+img {
+
+    width: 90px;
+    
+    height: 90px;
+    
+    float: left;
+    
+    }
+    
+    #idCard {
+    
+    border: 5px solid black;
+    
+    height: 14em;
+    
+    width: 25em;
+    
+    background-color: #DF3C6E;
+    
+    margin:auto;
+    
+    font-family:monospace;
+    
+    }
+    
+    body {background-color: #800A2D  ;}
+    
+    h1 {
+      text-align: center;
+      color:white;
+    }
+    
+    form {
+      text-align: center;
+      color:white;
+    }
+
+    div {
+      text-align:center;
+      }
+   
